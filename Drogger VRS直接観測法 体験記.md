@@ -1,26 +1,3 @@
----
-uid: 2025-04-29T17-56-32
-title: 2025年青調会GW研修_Drogger VRS直接観測法 体験記
-aliases:
-  - 2025年青調会GW研修
-  - VRS直接観測法体験記
-why:
-  - 直接観測法が楽しかったから書く
-  - 直接観測法の楽しさを広める
-summary: 
-source:
-  - "[[2025-05-01T15-40-24|土地家屋調査士/研修会_MOC]]"
-  - "[[2025-05-08T18-14-47|🔭測量業務 MOC]]"
-tags:
-  - 測量/基準点測量/GNSS/直接観測法
-  - GNSS/VRS/直接観測法
-  - 土地家屋調査士/業務
-  - marp
-  - 土地家屋調査士/青調会
-  - GNSS/drogger_gps
----
-[Your connected workspace for wiki, docs & projects \| Notion](https://www.notion.so/1e7d572df43e80ca9890f49732390bcf?pvs=4)
-
 ![](_attachments/2025-04-29T17-56-32/cover.png)
 
 
