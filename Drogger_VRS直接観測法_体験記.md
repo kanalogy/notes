@@ -127,6 +127,7 @@
 - GPS
 - QZSS
 - GLONASS
+- Galileo
 - **BeiDouはオフ**
 - RZS.DまたはRZX.Dの場合、Frequencyは"有効"
 #### 更新・計測レート
