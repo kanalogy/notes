@@ -272,5 +272,4 @@
 - [Drogger Processor RTK法・ネットワークRTK法 対応 - Beyond your wall with Drogger](https://drogger.hatenadiary.jp/entry/2022/12/15/123402)
 - [Drogger Processor RTK法・ネットワーク型RTK法 測量 - Beyond your wall with Drogger](https://drogger.hatenadiary.jp/processor_rtk)
 ## VRS直接観測法の実証例
-- [kochi-kousyoku.or.jp/file/0018/20181223201151.pdf](https://kochi-kousyoku.or.jp/file/0018/20181223201151.pdf)
 - [RTK直接法検証実験](https://www.koi-s.jp/tech/t_gns02-1.html)
